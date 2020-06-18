@@ -1,0 +1,7 @@
+.vscode
+.gitlab
+funcs
+tmp
+*.log
+coverage
+node_modules
